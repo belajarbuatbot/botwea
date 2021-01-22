@@ -1,3 +1,10 @@
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> SELF-BOT
+<p align="center">
+<img src="https://s4.bukalapak.com/bukalapak-kontenz-production/content_attachments/59009/original/anime_game.jpg" width="320">
+</p>
+<br>
+
+
 Botwe
 
 Bayak yang baru
